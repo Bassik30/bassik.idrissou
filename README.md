@@ -1,4 +1,6 @@
-# 👋 Bonjour, je suis Bassik Idrissou
+# Bonjour, je suis Bassik IDRISSOU
+
+Bienvenue sur mon Portfolio
 
 **Chargé d’études statistiques | Data Analyst | Modélisation & Évaluation**  
 📍 Vélizy-Villacoublay, France  
@@ -7,7 +9,7 @@
 
 ---
 
-## 🎯 À propos de moi
+## À propos de moi
 
 Passionné par l’usage de la donnée pour éclairer la décision publique, je cumule deux ans d’expérience dans l’analyse statistique, l’évaluation d’impact et la modélisation.  
 J’ai travaillé sur des projets d’intérêt général mêlant rigueur méthodologique, outils puissants (R, Python, SQL, Power BI, SAS) et restitution stratégique auprès de décideurs.
@@ -16,7 +18,7 @@ Je suis particulièrement à l’aise sur l’ensemble de la chaîne de producti
 
 ---
 
-## 📊 Compétences clés
+## Compétences clés
 
 - **Statistique & Économétrie** : inférence, ANOVA, régressions, PSM, IPTW, clustering, Random Forest
 - **Outils & langages** : R, Python, SQL, SAS, Power BI, Excel, ggplot2
@@ -38,7 +40,7 @@ Exploration de bases de plus de 46 000 observations, prédiction du mal-être é
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 Je suis toujours ouvert aux collaborations, opportunités professionnelles et projets à impact.
 
