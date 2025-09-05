@@ -4,8 +4,6 @@ Bienvenue sur mon Portfolio
 
 **Chargé d’études statistiques | Data Analyst | Modélisation & Évaluation**  
 📍 Vélizy-Villacoublay, France  
-📧 idrissoubassit@gmail.com | 📞 06 18 75 95 48  
-[🔗 LinkedIn](https://www.linkedin.com/in/abdoul-bassik-idrissou-993298222/)
 
 ---
 
