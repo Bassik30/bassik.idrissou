@@ -27,13 +27,13 @@ Je suis particulièrement à l’aise sur l’ensemble de la chaîne de producti
 
 ## 🚀 Projets sélectionnés
 
-### [📘 Évaluation du dispositif Santé Psy Étudiant](https://github.com/bassik-idrissou/sante-psy-etudiant)
+### [📘 [Évaluation du dispositif Santé Psy Étudiant](https://github.com/Bassik30/student_psy_project)  
 Création d’une base d’enquête (923 observations), analyse inférentielle sous R, estimation de l’impact par PSM, ateliers qualitatifs, et recommandations à destination de l’université.
 
-### [📊 Analyse des données de l’Observatoire de la Vie Étudiante (OVE)](https://github.com/bassik-idrissou/analyse-OVE-etudiants)
+### 📊 [Analyse des données de l’Observatoire de la Vie Étudiante (OVE)](https://github.com/Bassik30/student_mental_health_OVE)
 Exploration de bases de plus de 46 000 observations, prédiction du mal-être étudiant via modèles supervisés (Régressions, RandomForest) et non supervisés (k-means), Datavisualisation.
 
-### [📈 Projet CASSC – CAPÉE (Grand Poitiers)](https://github.com/bassik-idrissou/evaluation-CASSC)
+### [Projet CASSC – CAPÉE (Grand Poitiers)](https://github.com/Bassik30/project_CASSC_CAPEE)  
 Évaluation du non-recours aux dispositifs sociaux auprès de 11 structures. Modélisation sous Python, production d’indicateurs, recommandations stratégiques concrètes mises en œuvre.
 
 ---
