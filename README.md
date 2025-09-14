@@ -31,7 +31,7 @@ Je suis particulièrement à l’aise sur l’ensemble de la chaîne de producti
 Création d’une base d’enquête (923 observations), analyse inférentielle sous R, estimation de l’impact par PSM, ateliers qualitatifs, et recommandations à destination de l’université.
 
 ### [📊 Analyse des données de l’Observatoire de la Vie Étudiante (OVE)](https://github.com/bassik-idrissou/analyse-OVE-etudiants)
-Exploration de bases de plus de 46 000 observations, prédiction du mal-être étudiant via modèles supervisés (régressions, arbres) et non supervisés (k-means), visualisation sous Power BI.
+Exploration de bases de plus de 46 000 observations, prédiction du mal-être étudiant via modèles supervisés (régressions, Random Forest) et non supervisés (k-means), Datavisualisation.
 
 ### [📈 Projet CASSC – CAPÉE (Grand Poitiers)](https://github.com/bassik-idrissou/evaluation-CASSC)
 Évaluation du non-recours aux dispositifs sociaux auprès de 11 structures. Modélisation sous Python, production d’indicateurs, recommandations stratégiques concrètes mises en œuvre.
