@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://github.com/Bassik30/Bassik30/blob/main/assets/banner.png" alt="Bassik IDRISSOU – Data Analyst" width="100%">
+  <img src="https://github.com/Bassik30/Bassik30/blob/main/assets/banner.png" alt="Bassik IDRISSOU – Data Scientist" width="100%">
 </p>
 
 <h1 align="center">👋 Bonjour, je suis <strong>Bassik IDRISSOU</strong></h1>
