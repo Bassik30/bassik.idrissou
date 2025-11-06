@@ -29,7 +29,7 @@ J’ai travaillé sur des projets à fort enjeu social, mobilisant R, Python, SQ
 
 ## 🚀 Mes projets
 
-### 🌍 [Analyse temporelle et prédictive de la qualité de l’air en Inde (2015–2020)](https://github.com/Bassik30/air_quality_forecast_india)
+### 🌍 [Analyse temporelle et prédictive de la qualité de l’air en Inde (2015–2020)](https://github.com/Bassik30/Air_quality_forecast_india-AQI)
 Étude complète de la pollution atmosphérique en Inde à partir de données publiques du CPCB.  
 - **Objectifs** : analyser les tendances spatio-temporelles et prédire la qualité de l’air (AQI)  
 - **Techniques** : nettoyage et interpolation des données, Random Forest ($R^2 = 0.90$), prévision temporelle avec Prophet, visualisation géographique (Folium)  
