@@ -6,8 +6,6 @@
 <h1 align="center">👋 Bonjour, je suis <strong>Bassik IDRISSOU</strong></h1>
 
 <p align="center">
-🎯 <strong>Chargé d’études statistiques & Data Analyst</strong>  
-<br>
 📍 Vélizy-Villacoublay, France  
 <br>
 💡 Données publiques | Modélisation | Évaluation d’impact | Machine Learning  
@@ -29,7 +27,7 @@
 
 ## À propos de moi  
 
-Passionné par l’usage des données pour **comprendre, évaluer et améliorer les politiques publiques**, j’ai développé une expertise en **analyse statistique**, **modélisation prédictive** et **évaluation d’impact**.  
+Je suis Data Scientist orienté impact. J’allie la modélisation statistique et le machine learning pour transformer les données publiques en leviers de décision.
 
 Mon approche combine :  
 - la **rigueur scientifique** issue de la recherche académique,  
@@ -81,7 +79,7 @@ Exploration de plus de 46 000 observations issues des enquêtes nationales de l�
 
 ---
 
-## 🎓 Formation  
+## Formation  
 
 🎓 **Master Économie Appliquée – Évaluation des politiques publiques & Data Science**  
 Université de Poitiers (2023–2025)  
