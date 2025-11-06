@@ -27,7 +27,7 @@
 
 ---
 
-## 🧭 À propos de moi  
+## À propos de moi  
 
 Passionné par l’usage des données pour **comprendre, évaluer et améliorer les politiques publiques**, j’ai développé une expertise en **analyse statistique**, **modélisation prédictive** et **évaluation d’impact**.  
 
@@ -40,7 +40,7 @@ Mon approche combine :
 
 ---
 
-## 🧮 Compétences clés  
+## Compétences clés  
 
 | Domaine | Compétences |
 |:--|:--|
@@ -53,7 +53,7 @@ Mon approche combine :
 
 ---
 
-## 🚀 Projets phares  
+## Projets phares  
 
 ### 🌍 [Analyse temporelle et prédictive de la qualité de l’air en Inde (2015–2020)](https://github.com/Bassik30/Air_quality_forecast_india_AQI)
 Étude complète de la pollution atmosphérique dans dix grandes villes indiennes à partir des données publiques du *Central Pollution Control Board (CPCB)*.  
@@ -64,7 +64,7 @@ Mon approche combine :
 
 ---
 
-### 📊 [Analyse des données de l’Observatoire de la Vie Étudiante (OVE)](https://github.com/Bassik30/student_mental_health_OVE)
+### [Analyse des données de l’Observatoire de la Vie Étudiante (OVE)](https://github.com/Bassik30/student_mental_health_OVE)
 Exploration de plus de 46 000 observations issues des enquêtes nationales de l’OVE (2016 & 2020).  
 - **Objectif :** identifier les facteurs du mal-être étudiant et construire des modèles prédictifs  
 - **Méthodes :** régressions multiples, Random Forest, k-means  
@@ -91,7 +91,7 @@ Université de Besançon (2022–2023)
 
 ---
 
-## 💬 Soft skills  
+## Soft skills  
 
 💡 Esprit d’analyse et rigueur scientifique  
 🤝 Travail collaboratif et coordination d’équipe  
@@ -100,7 +100,7 @@ Université de Besançon (2022–2023)
 
 ---
 
-## 📫 Me contacter  
+## Me contacter  
 
 <p align="center">
   📧 <a href="mailto:idrissoubassit@gmail.com">idrissoubassit@gmail.com</a>  
