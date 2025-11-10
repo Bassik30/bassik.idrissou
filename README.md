@@ -15,7 +15,6 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bassik30&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SAS-0086CD?logo=sas&logoColor=white" />
@@ -77,17 +76,6 @@ Exploration de plus de 46 000 observations issues des enquÃªtes nationales de lâ
   <img src="https://github-readme-stats.vercel.app/api?username=Bassik30&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassik30&layout=compact&theme=gruvbox" height="165">
 </p>
-
----
-
-## Mes languagges principaux
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAS-0086CD?logo=sas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
-</p>
-
 
 ---
 
