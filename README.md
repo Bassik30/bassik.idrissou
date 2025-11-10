@@ -3,8 +3,6 @@
   <img src="assets/banner.png" alt="Bassik IDRISSOU – Data Scientist" width="100%">
 </p>
 
-<h1 align="center"> Bonjour, je suis <strong>Bassik IDRISSOU</strong></h1>
-
 <p align="center">
 📍 Vélizy-Villacoublay, France  
 <br>
