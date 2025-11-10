@@ -109,7 +109,6 @@ Université de Besançon (2022–2023)
 ---
 
 <p align="center">
-  <em>"Les données ne valent que si elles guident l’action." – Bassik IDRISSOU</em>  
+  <em>"Les données ne valent que si elles guident l’action." </em>  
   <br>
-  <sub>🗓️ Dernière mise à jour : novembre 2025</sub>
 </p>
