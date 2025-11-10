@@ -54,7 +54,7 @@ Mon approche combine :
 
 ## Projets phares  
 
-### 🌍 [Analyse temporelle et prédictive de la qualité de l’air en Inde (2015–2020)](https://github.com/Bassik30/Air_quality_forecast_india_AQI)
+### [Analyse temporelle et prédictive de la qualité de l’air en Inde (2015–2020)](https://github.com/Bassik30/Air_quality_forecast_india_AQI)
 Étude complète de la pollution atmosphérique dans dix grandes villes indiennes à partir des données publiques du *Central Pollution Control Board (CPCB)*.  
 - **Objectif :** analyser les tendances spatio-temporelles et prédire la qualité de l’air (AQI)  
 - **Méthodes :** Random Forest ($R^2 = 0.90$) & Prophet (prévision 2028), visualisation géographique (Folium)  
