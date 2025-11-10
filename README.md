@@ -80,6 +80,17 @@ Exploration de plus de 46 000 observations issues des enquêtes nationales de l�
 
 ---
 
+## Mes languagges principaux
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAS-0086CD?logo=sas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
+</p>
+
+
+---
+
 ## Formation  
 
 🎓 **Master Économie Appliquée – Évaluation des politiques publiques & Data Science**  
