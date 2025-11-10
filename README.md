@@ -43,30 +43,50 @@ Mon approche combine :
 | Domaine | Compétences |
 |:--|:--|
 | **Langages** | R, Python, SAS, SQL |
-| **Machine Learning** | Régression, Random Forest, k-means, Séries temporelles, PSM, IPTW, Prophet |
-| **Outils / Environnements** | Jupyter, Power BI, Power Query, Scikit-learn, Oracle, LimeSurvey |
+| **Bibliothèques** | pandas, numpy, matplotlib, seaborn, Prophet, scikit-learn |
+| **Machine Learning** | Régression, Random Forest, k-means, Séries temporelles, IPTW, xgboost, statsmodels |
+| **Outils / Environnements** | Jupyter, Power BI, Power Query, Oracle, LimeSurvey |
 | **Visualisation & Reporting** | ggplot2, Power BI, tableaux de bord automatisés, reporting dynamique |
-| **Statistique appliquée** | Inférence, économétrie, évaluation d’impact, data mining |
+| **Statistique appliquée** | Inférence, économétrie, évaluation d’impact, data mining, PSM |
 | **Méthodes mixtes** | Analyses quantitatives et qualitatives, évaluation participative |
 
 ---
 
-## Projets phares  
+## Projets clés 
 
-### 🌍 [Analyse temporelle et prédictive de la qualité de l’air en Inde (2015–2020)](https://github.com/Bassik30/Air_quality_forecast_india_AQI)
-Étude complète de la pollution atmosphérique dans dix grandes villes indiennes à partir des données publiques du *Central Pollution Control Board (CPCB)*.  
-- **Objectif :** analyser les tendances spatio-temporelles et prédire la qualité de l’air (AQI)  
-- **Méthodes :** Random Forest ($R^2 = 0.90$) & Prophet (prévision 2028), visualisation géographique (Folium)  
-- **Résultats :** Delhi, Kolkata et Guwahati parmi les plus polluées ; tendance légèrement baissière après 2020  
-📘 *[Rapport complet (PDF)](https://github.com/Bassik30/Air_quality_forecast_india_AQI/blob/main/docs/rapport_AQI_Inde.pdf)*  
+<div align="center">
+  <table>
+    <tr>
+      <td width="48%" valign="top">
 
----
+  <h3>🌍 <a href="https://github.com/Bassik30/Air_quality_forecast_india_AQI">Analyse temporelle et prédictive de la qualité de l’air en Inde (2015–2020)</a></h3>
+  Étude complète de la pollution atmosphérique dans dix grandes villes indiennes à partir des données publiques du <em>Central Pollution Control Board (CPCB)</em>.  
+  <br><br>
+  <strong>Objectif :</strong> analyser les tendances spatio-temporelles et prédire la qualité de l’air (AQI).  
+  <br>
+  <strong>Méthodes :</strong> Random Forest (R² = 0.90) & Prophet (prévision 2028), visualisation géographique (Folium).  
+  <br>
+  <strong>Résultats :</strong> Delhi, Kolkata et Guwahati parmi les plus polluées ; tendance légèrement baissière après 2020.  
+  <br>
+  📘 <a href="https://github.com/Bassik30/Air_quality_forecast_india_AQI/blob/main/docs/rapport_AQI_Inde.pdf"><em>Rapport complet (PDF)</em></a>
 
-### [Analyse des données de l’Observatoire de la Vie Étudiante (OVE)](https://github.com/Bassik30/student_mental_health_OVE)
-Exploration de plus de 46 000 observations issues des enquêtes nationales de l’OVE (2016 & 2020).  
-- **Objectif :** identifier les facteurs du mal-être étudiant et construire des modèles prédictifs  
-- **Méthodes :** régressions multiples, Random Forest, k-means  
-- **Résultats :** identification des profils étudiants les plus vulnérables et des déterminants socio-économiques du bien-être  
+      </td>
+      <td width="4%"></td>
+      <td width="48%" valign="top">
+
+  <h3>📊 <a href="https://github.com/Bassik30/student_mental_health_OVE">Analyse des données de l’Observatoire de la Vie Étudiante (OVE)</a></h3>
+  Exploration de plus de 46 000 observations issues des enquêtes nationales de l’OVE (2016 & 2020).  
+  <br><br>
+  <strong>Objectif :</strong> identifier les facteurs du mal-être étudiant et construire des modèles prédictifs.  
+  <br>
+  <strong>Méthodes :</strong> régressions multiples, Random Forest, k-means.  
+  <br>
+  <strong>Résultats :</strong> identification des profils étudiants les plus vulnérables et des déterminants socio-économiques du bien-être.
+
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
