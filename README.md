@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="assets/bannerr.png" alt="Bassik IDRISSOU – Data Scientist" width="100%">
+  <img src="assets/bannerrr.png" alt="Bassik IDRISSOU – Data Scientist" width="100%">
 </p>
 
 <p align="center">
