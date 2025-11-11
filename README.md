@@ -101,7 +101,7 @@ Université de Besançon (2022–2023)
 <p align="center">
   📧 <a href="mailto:idrissoubassit@gmail.com">idrissoubassit@gmail.com</a>  
   <br>
-  🔗 <a href="https://www.linkedin.com/in/abdoul-bassik-idrissou-993298222/">LinkedIn – Abdoul Bassik IDRISSOU</a>  
+  🔗 <a href="https://www.linkedin.com/in/abdoul-bassik-idrissou-993298222/">LinkedIn </a>  
   <br>
   📞 06 18 75 95 48
 </p>
