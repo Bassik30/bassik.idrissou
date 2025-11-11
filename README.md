@@ -24,7 +24,7 @@
 
 ## À propos de moi  
 
-Je suis Data Scientist orienté impact. J’allie la modélisation statistique et le machine learning pour transformer les données publiques en leviers de décision.
+Je suis Data Scientist orienté impact (santé et environnement). J’allie la modélisation statistique et le machine learning pour transformer les données publiques en leviers de décision.
 
 Mon approche combine :  
 - la **rigueur scientifique** issue de la recherche académique,  
